@@ -24,7 +24,10 @@ Note: It might or might not be a valid JSON structure.
 The solution doesnt not require any user interaction and generates the following output.
 
 Bill,Frank
+
 Age:23 Female:0 Male:2
+
 Age:54 Female:0 Male:1
+
 Age:66 Female:3 Male:0
 
